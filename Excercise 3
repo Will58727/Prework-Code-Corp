@@ -1,0 +1,6 @@
+console.log("My name is: ");
+console.log(); //("will")
+console.log("My age is: ");
+console.log(); //(24)
+console.log("My zip code is: "); 
+console.log(); //(76036)
