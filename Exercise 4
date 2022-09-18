@@ -1,0 +1,14 @@
+console.log("The sum of 9 and 15 is: ");
+console.log(24); 
+console.log("The difference between 100 and 48 is: ");
+console.log(52); 
+console.log("The product of 56 and 32 is: ");
+console.log(88); 
+console.log("The quotient of 198 and 6 is: ");
+console.log(33);
+console.log("3 raised to the 5th power is: ");
+console.log(243);
+console.log("The remainder when 45 is divided by 7 is: ")
+console.log(6);
+console.log("The product of 5 and 7 added to the quotient of 12 and 3 is: ");
+console.log(16);
