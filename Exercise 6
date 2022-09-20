@@ -1,5 +1,0 @@
-console.log("hello there"=="hello there"); 
-console.log(67<66);
-console.log("General Kenobi"!=='General Kenobi'); // !==, false
-console.log(66!=67); // !=, true
-console.log("Execute Order 66"==="Execute Order 66"); // ===, true

@@ -1,0 +1,20 @@
+const mikesMeal = 23.99
+const mikesDrinks = 24.00
+const juansMeal = 26.49
+const juansDrinks = 18.00
+const sheasMeal = 21.99
+const sheasDrinks = 10.00
+
+const mealsTotal = 72.47 //complete the line to calculate the total price for all of the meals
+const drinksTotal =52.00 //complete the line to calculate the total price for all of the meals
+
+const subtotal =124.47 //calculate the subtotal for the entire bill (both drinks and meals)
+
+const tax =16.18 //calculate the tax on the bill assuming a 10% tax rate
+const tip =32.36 //calculate what a 20% tip on the bill would be
+
+const billTotal =161.82 //calculate the total due for the bill
+const splitAmount =53.94 //calculate how much each person pays if they decide to split the bill evenly
+
+console.log("The total due is", billTotal.toFixed(2));
+console.log("Split 3 ways is", splitAmount.toFixed(2), "each");
