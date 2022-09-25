@@ -1,0 +1,12 @@
+const fullString = "SOFTWARE DEV";
+
+const vanityLetter1 = fullString[1];//your code here
+const vanityLetter2 = fullString[3];//your code here
+const vanityLetter3 = fullString[4]; //use this as an example
+const vanityLetter4 = fullString[5];//your code here
+const vanityLetter5 = fullString[7];//your code here
+const vanityLetter6 =fullString[9]; //your code here
+const vanityLetter7 =fullString[8]; //your code her
+const vanityPlate =fullString; //your code here
+
+console.log(`The new vanity plate is ${vanityPlate}`);
