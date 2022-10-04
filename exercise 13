@@ -1,6 +1,6 @@
-const myPassword = "abc1234567";
+const myPassword = "abc123";
 
-if (myPassword.length < 10) {
+if (myPassword.length < 4) {
     console.log("Sorry this password isn't long enough, try again.");
 } else {
     console.log("Great password length!");
